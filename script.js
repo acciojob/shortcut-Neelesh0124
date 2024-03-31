@@ -8,6 +8,7 @@ function shortcut(s1, s2) {
 		ans+ = s1[0];
 		ans+ = s2[0];
 		return ans;
+		
 	}
 	
 }
